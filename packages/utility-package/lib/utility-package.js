@@ -3,5 +3,5 @@
 module.exports = utilityPackage;
 
 function utilityPackage() {
-  console.log("utility");
+  console.log("utility: update");
 }
