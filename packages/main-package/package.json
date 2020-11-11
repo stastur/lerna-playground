@@ -1,0 +1,29 @@
+{
+  "name": "main-package",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Stas Tur <stastyr123@gmail.com>",
+  "homepage": "https://github.com/stastur/lerna-playground#readme",
+  "license": "ISC",
+  "main": "lib/main-package.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stastur/lerna-playground.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/stastur/lerna-playground/issues"
+  },
+  "dependencies": {
+    "utility-package": "^1.0.0"
+  }
+}
