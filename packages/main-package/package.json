@@ -1,6 +1,6 @@
 {
   "name": "main-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "Stas Tur <stastyr123@gmail.com>",
   "homepage": "https://github.com/stastur/lerna-playground#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/stastur/lerna-playground/issues"
   },
   "dependencies": {
-    "utility-package": "^1.0.1"
+    "utility-package": "^1.0.2"
   }
 }
