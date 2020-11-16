@@ -3,5 +3,5 @@
 module.exports = mainPackage;
 
 function mainPackage() {
-    // TODO
+    console.log('feature')
 }
