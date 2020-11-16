@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/stastur/lerna-playground/compare/individual-package@1.2.0...individual-package@1.3.0) (2020-11-16)
+
+
+### Features
+
+* update ind pack ([772ae08](https://github.com/stastur/lerna-playground/commit/772ae08470a7f638008877cd367c1be1252e667c))
+
+
+
+
+
 # [1.2.0](https://github.com/stastur/lerna-playground/compare/individual-package@1.1.0...individual-package@1.2.0) (2020-11-11)
 
 
