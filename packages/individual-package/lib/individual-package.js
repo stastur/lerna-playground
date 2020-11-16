@@ -3,5 +3,5 @@
 module.exports = individualPackage;
 
 function individualPackage() {
-  console.log("individual: another new version");
+  console.log("individual: another update");
 }
