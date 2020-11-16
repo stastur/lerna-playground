@@ -3,5 +3,5 @@
 module.exports = mainPackage;
 
 function mainPackage() {
-    console.log('feature')
+    console.log('feature, bump')
 }

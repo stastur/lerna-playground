@@ -3,5 +3,5 @@
 module.exports = individualPackage;
 
 function individualPackage() {
-  console.log("individual: another update");
+  console.log("individual: bump");
 }
