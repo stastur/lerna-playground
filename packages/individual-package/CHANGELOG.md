@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/stastur/lerna-playground/compare/individual-package@1.3.1...individual-package@1.4.0) (2020-11-16)
+
+
+### Features
+
+* bump ind 1.4.0 ([b645b29](https://github.com/stastur/lerna-playground/commit/b645b292c7c6269f0e471fa728de44d741d52b28))
+* bump ind again ([bc0c580](https://github.com/stastur/lerna-playground/commit/bc0c58079be299f89acf8246fb243112845b4aae))
+
+
+
+
+
 ## [1.3.1](https://github.com/stastur/lerna-playground/compare/individual-package@1.3.0...individual-package@1.3.1) (2020-11-16)
 
 **Note:** Version bump only for package individual-package
