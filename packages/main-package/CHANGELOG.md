@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.4](https://github.com/stastur/lerna-playground/compare/main-package@1.1.3...main-package@1.1.4) (2021-01-06)
+
+**Note:** Version bump only for package main-package
+
+
+
+
+
 ## [1.1.3](https://github.com/stastur/lerna-playground/compare/main-package@1.1.1...main-package@1.1.3) (2021-01-06)
 
 **Note:** Version bump only for package main-package
