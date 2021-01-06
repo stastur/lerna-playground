@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/stastur/lerna-playground/compare/utility-package@1.1.0...utility-package@1.3.0) (2021-01-06)
+
+
+### Features
+
+* update ([a84ddde](https://github.com/stastur/lerna-playground/commit/a84ddde87640541919b19ad0bc5463deaec0921c))
+
+
+
+
+
 # [1.2.0](https://github.com/stastur/lerna-playground/compare/utility-package@1.1.0...utility-package@1.2.0) (2021-01-06)
 
 
