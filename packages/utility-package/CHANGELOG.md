@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/stastur/lerna-playground/compare/utility-package@1.5.2...utility-package@1.6.0) (2021-01-13)
+
+
+### Features
+
+* test feat in merge commit ([9165499](https://github.com/stastur/lerna-playground/commit/91654991582678fe4b9624b55835a83195bb01ce))
+
+
+
+
+
 ## [1.5.2](https://github.com/stastur/lerna-playground/compare/utility-package@1.5.1...utility-package@1.5.2) (2021-01-13)
 
 **Note:** Version bump only for package utility-package
